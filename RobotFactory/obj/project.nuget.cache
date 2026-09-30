@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hbF59eYYn94/Df+MIc/Io6Ky97VPe7L5uK2MvE5hR0ZeoINS033h2ZuawFS8r15BI3d6kZ48FPF55vi23MJvZw==",
+  "success": true,
+  "projectFilePath": "/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/RobotFactory.csproj",
+  "expectedPackageFiles": [
+    "/Users/ranidukavishka/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ranidukavishka/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ranidukavishka/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

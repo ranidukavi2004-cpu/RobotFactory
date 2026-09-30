@@ -1,0 +1,15 @@
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.csproj.AssemblyReference.cache
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.AssemblyInfoInputs.cache
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.AssemblyInfo.cs
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.csproj.CoreCompileInputs.cache
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/bin/Debug/net6.0/RobotFactory
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/bin/Debug/net6.0/RobotFactory.deps.json
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/bin/Debug/net6.0/RobotFactory.runtimeconfig.json
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/bin/Debug/net6.0/RobotFactory.dll
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/bin/Debug/net6.0/RobotFactory.pdb
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.dll
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/refint/RobotFactory.dll
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.pdb
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/RobotFactory.genruntimeconfig.cache
+/Users/ranidukavishka/Desktop/untitled folder/RobotFactory/RobotFactory/obj/Debug/net6.0/ref/RobotFactory.dll
